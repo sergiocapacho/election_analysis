@@ -1,2 +1,2 @@
-# election_analysis
+# Election_Analysis
 Python project
