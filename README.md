@@ -50,7 +50,9 @@ At the end, the vote count report will certify the results of this u.s congressi
 
 ### • Election winner
 ‣ Diana DeGette 
+
   272,892 votes
+  
   73.8%
 
             
