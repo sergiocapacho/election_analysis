@@ -21,44 +21,38 @@ At the end, the vote count report will certify the results of this u.s congressi
 
 ‣ Arapahoe: 24,801 votes with 6.7%
 
-    # 6a: Write a repetition statement to get the county from the county dictionary.
     for county_name in county_votes:
-        # 6b: Retrieve the county vote count.
+    
         CountysVotes = county_votes.get(county_name)
-        # 6c: Calculate the percent of total votes for the county.
         CountysVote_percentage = float(CountysVotes) / float(total_CountysVotes) * 100
         counties_results = (
             f"{county_name}: {CountysVote_percentage:.1f}% ({CountysVotes:,})\n")
 
-         # 6d: Print the county results to the terminal.
         print(counties_results)
 
 ### • Denver has the largest number of votes, with 82.8%
 
 ### • Votes per candidate
 
-‣ Charles Casper Stockham: 23.0% - 85,213 votes
+‣ Charles Casper Stockham: 23.0% with 85,213 votes
 
-‣ Diana DeGette: 73.8% - 272,892 votes
+‣ Diana DeGette: 73.8% with 272,892 votes
 
-‣ Raymon Anthony Doane: 3.1% - 11,606 votes
+‣ Raymon Anthony Doane: 3.1% with 11,606 votes
 
     for candidate_name in candidate_votes:
-
-        # Retrieve vote count and percentage
+     
         votes = candidate_votes.get(candidate_name)
         vote_percentage = float(votes) / float(total_votes) * 100
         candidate_results = (
             f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
 
-        # Print each candidate's voter count and percentage to the
-        # terminal.
         print(candidate_results)
 
 ### • Election winner
-    ‣ Diana DeGette 
-      272,892 votes
-      73.8%
+‣ Diana DeGette 
+  272,892 votes
+  73.8%
 
             
 ## Election-Audit Summary
