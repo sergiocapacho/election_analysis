@@ -1,5 +1,4 @@
-# Election Analysis
-Python project
+# Election Analysis - Audit of the tabulated results for U.S. Congressional precinct in Colorado.
 
 ## Overview of Election Audit
 
