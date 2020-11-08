@@ -9,11 +9,11 @@ The totals and percentage of votes corresponding to all candidates and winner wi
 
 At the end, the vote count report will certify the results of this u.s congressional race. 
 
-## •Election-Audit Results
+## Election-Audit Results
 
-### •369,711 votes were cast in this congressional election.
+### • 369,711 votes were cast in this congressional election.
 
-### •The total votes per county were:
+### • The total votes per county were:
 
     ‣ Jefferson: 38,855 votes with 10.5%
     
@@ -21,9 +21,9 @@ At the end, the vote count report will certify the results of this u.s congressi
     
     ‣ Arapahoe: 24,801 votes with 6.7%
 
-### •Denver has the largest number of votes, with 82.8%
+### • Denver has the largest number of votes, with 82.8%
 
-### •Votes per candidate
+### • Votes per candidate
 
     ‣ Charles Casper Stockham: 23.0% - 85,213 votes
     
@@ -31,7 +31,7 @@ At the end, the vote count report will certify the results of this u.s congressi
     
     ‣ Raymon Anthony Doane: 3.1% - 11,606 votes
 
-### •Election winner
+### • Election winner
     ‣ Diana DeGette 
       272,892 votes
       73.8%
